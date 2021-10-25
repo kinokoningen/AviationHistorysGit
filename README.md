@@ -6,6 +6,10 @@ print"hi, im AviationHistorysGit, or you can call me AviationHistory, my discord
 
 wait(5.05)
 
+print"I am currently interested in aviation, and plan to be a pilot when I am more mature."
+
+wait(3.05)
+
 print"I like cats."
 
 wait(2.00)
